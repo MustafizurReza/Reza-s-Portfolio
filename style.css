@@ -1,0 +1,129 @@
+body{
+    font-family: 'Dancing Script', cursive;
+    margin: 0%;
+}
+.half-width{
+
+    width: 400px;
+    float: left;
+    margin-left: 50px;
+    padding-left: 50px;
+    
+}
+.half-width h1{
+
+    font-size: 50px;
+}
+.half-width span{
+    color: orange;
+}
+.half-width img{
+
+    width: 100%;
+}
+.button{
+    color: white;
+    background-color: tomato;
+    padding: 10px 30px;
+    text-decoration: none;
+    border-radius: 9px;
+    font-weight: 900px;
+    margin: 80px 5px;
+}
+section{
+
+    height: 600px;
+}
+.experience h1{
+
+    font-size: xx-large;
+    text-align: center;
+}
+#exp{
+    color: orange;
+    font-size: 40px;
+    text-align: center;
+    height: 150px;
+}
+.experience img{
+
+    width: 100%;
+    height: 50%;
+}
+.experience{
+
+    box-shadow: 10px 10px 40px gray;
+    float: left;
+    width: 300px;
+    margin-left: 35px;
+    height: 450px;
+    padding: 30px;
+}
+.project h1{
+
+    font-size: xx-large;
+    text-align: center;
+
+}
+.project img{
+     
+    width: 100%;
+    height: 50%;
+}
+.project{
+    box-shadow: 10px 10px 40px gray;
+    float: left;
+    width: 300px;
+    margin-left: 35px;
+    height: 450px;
+    padding: 30px;
+}
+#pro{
+    color: purple;
+    font-size: 40px;
+    text-align: center;
+    height: 150px;
+}
+#pro span{
+    color: orange;
+}
+.workInq{
+
+    background-image: url(images/Group_33094_1.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 90%;
+}
+
+#work{
+    margin-left: 300px;
+    margin-top: 200px;
+    float: left;
+    width: 300px;
+    color: white;
+    font-size: xx-large;
+
+}
+#chat{
+    margin-left: 300px;
+    margin-top: 300px;
+    float: left;
+    width: 300px;
+    color: white;
+    font-size: xx-large;
+
+}
+.sec{
+    height: 800px;
+}
+#foot{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-size: x-large;
+}
+p{
+    color: dimgray;
+}
+h2{
+    color: darkslategray;
+}
